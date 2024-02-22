@@ -16,6 +16,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1642_FBYCR", "1642_FBYCR\16
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "268_Missing_Number", "268_Missing_Number\268_Missing_Number.vcxproj", "{255515FC-D995-4425-ADBB-EBD63F504276}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "997_Find_the_Town_Judge", "997_Find_the_Town_Judge\997_Find_the_Town_Judge.vcxproj", "{332839F7-7018-4994-ADDB-87C75A1DCEF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -56,6 +58,14 @@ Global
 		{255515FC-D995-4425-ADBB-EBD63F504276}.Release|x64.Build.0 = Release|x64
 		{255515FC-D995-4425-ADBB-EBD63F504276}.Release|x86.ActiveCfg = Release|Win32
 		{255515FC-D995-4425-ADBB-EBD63F504276}.Release|x86.Build.0 = Release|Win32
+		{332839F7-7018-4994-ADDB-87C75A1DCEF5}.Debug|x64.ActiveCfg = Debug|x64
+		{332839F7-7018-4994-ADDB-87C75A1DCEF5}.Debug|x64.Build.0 = Debug|x64
+		{332839F7-7018-4994-ADDB-87C75A1DCEF5}.Debug|x86.ActiveCfg = Debug|Win32
+		{332839F7-7018-4994-ADDB-87C75A1DCEF5}.Debug|x86.Build.0 = Debug|Win32
+		{332839F7-7018-4994-ADDB-87C75A1DCEF5}.Release|x64.ActiveCfg = Release|x64
+		{332839F7-7018-4994-ADDB-87C75A1DCEF5}.Release|x64.Build.0 = Release|x64
+		{332839F7-7018-4994-ADDB-87C75A1DCEF5}.Release|x86.ActiveCfg = Release|Win32
+		{332839F7-7018-4994-ADDB-87C75A1DCEF5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
