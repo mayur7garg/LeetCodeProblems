@@ -1,0 +1,11 @@
+version: "3.9"
+name: "leetcode_cpp"
+services:
+  leetcode_cpp:
+    build: ./
+    image: leetcode_cpp:latest
+    volumes:
+      - .:/CPP
+    tty: true
+    command: /bin/bash
+    container_name: leetcode_cpp

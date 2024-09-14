@@ -1,0 +1,15 @@
+{
+	"name": "Leetcode CPP",
+	"dockerComposeFile": [
+		"../../CPP/docker-compose.yml"
+	],
+	"service": "leetcode_cpp",
+	"workspaceFolder": "/CPP",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-vscode.cpptools-extension-pack"
+			]
+		}
+	}
+}
