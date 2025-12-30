@@ -1,0 +1,10 @@
+name: "leetcode_py"
+services:
+  leetcode_py:
+    build: ./
+    image: leetcode_py:latest
+    volumes:
+      - .:/Python
+    tty: true
+    command: /bin/bash
+    container_name: leetcode_py
